@@ -34,7 +34,7 @@ While this project is primarily a demonstration and learning resource, feel free
 
 Check out the gameplay trailer to see the Gnome's journey in action!
 
-* **Gameplay Video:** [placeholder: Link to youtube video]
+* **Gameplay Video:** https://youtu.be/g8pR5N3bJec
 
 ---
 
@@ -42,4 +42,4 @@ Check out the gameplay trailer to see the Gnome's journey in action!
 
 | Date of Final Commit | Status |
 | :--- | :--- |
-| [placeholder: Date of final commit] | Complete |
+| Sept. 28, 2025 | Complete |
