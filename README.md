@@ -13,6 +13,32 @@ Gnome's Well is a charming 2D adventure game where you play as a gnome tasked wi
 
 ---
 
+## Controls
+- Tilt the Device -> Move left and right
+- Up Button -> Shorter rope
+- Down Button -> Lengthen rope
+- Menu Button-> Pause/Return to menu
+- New Game button -> Start the game
+- Invincible Checkbox -> Make the gnome invincible
+
+---
+
+## How to Run
+
+1. Clone or download this repository.
+2. Open Unity Hub -> Add project -> Select project folder.
+3. Open the scene Main.scene in Assets/Scenes/folder.
+4. Press Play inside Unity OR run the build in /Builds/.
+
+---
+
+## Known Issues / Limitations
+
+- Rope physics may jitter slightly at higher speeds.
+- Currently only one level (prototype).
+
+---
+
 ## Getting Started
 
 To explore the Gnome's Well project, ensure you have the correct version of the **Unity engine** installed.
